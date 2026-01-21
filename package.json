@@ -14,7 +14,7 @@
     "@testing-library/user-event": "^7.2.1",
     "styled-components": "^5.1.0",
     "scorer-ui-kit": "1.0.9",
-    "aws-amplify": "^3.0.20",
+    "aws-amplify": "^6.15.10",
     "bootstrap": "^4.5.0",
     "cors": "^2.8.5",
     "date-fns": "^2.15.0",
